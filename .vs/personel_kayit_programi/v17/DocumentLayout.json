@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|c:\\users\\hakan\\source\\repos\\personel_kayit_programi\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|c:\\users\\hakan\\source\\repos\\personel_kayit_programi\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|c:\\users\\hakan\\source\\repos\\personel_kayit_programi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|c:\\users\\hakan\\source\\repos\\personel_kayit_programi\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7F0746BC-9AA6-4048-9772-290B51294EA9}|personel_kayit_programi.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRaporlar.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmRaporlar.cs",
+              "RelativeDocumentMoniker": "FrmRaporlar.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmRaporlar.cs",
+              "RelativeToolTip": "FrmRaporlar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:33:43.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRaporlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmRaporlar.cs",
+              "RelativeDocumentMoniker": "FrmRaporlar.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmRaporlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmRaporlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:17:23.203Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmgiris.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Frmgiris.cs",
+              "RelativeDocumentMoniker": "Frmgiris.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Frmgiris.cs",
+              "RelativeToolTip": "Frmgiris.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:03:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmgiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Frmgiris.cs",
+              "RelativeDocumentMoniker": "Frmgiris.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Frmgiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Frmgiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:57:46.699Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmAnaForm.cs",
+              "RelativeToolTip": "FrmAnaForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAnwJIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:57:37.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:22:20.601Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Report1.rdlc",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\personel_kayit_programi\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-31T12:30:04.338Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
